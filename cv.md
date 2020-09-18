@@ -35,11 +35,11 @@ Bachelor's degree, Economics
 2000-2005
 
 **Self-education**:
-[Codecademy:Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 
-[Codecademy:Learn CSS](https://www.codecademy.com/learn/learn-css)
-[Codecademy:Learn Learn HTML](https://www.codecademy.com/learn/learn-html)
-[This is CS50x](https://cs50.harvard.edu/x/2020/)
-[CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
+* [Codecademy:Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 
+* [Codecademy:Learn CSS](https://www.codecademy.com/learn/learn-css)
+* [Codecademy:Learn Learn HTML](https://www.codecademy.com/learn/learn-html)
+* [This is CS50x](https://cs50.harvard.edu/x/2020/)
+* [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 
 ## Languages
 * English - B1 
