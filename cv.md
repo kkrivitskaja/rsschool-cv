@@ -22,14 +22,14 @@ In addition, I’m a free thinker who enjoys the chance to explore new ideas and
 * Git
 
 ## Experience and education
-**Belarusian State Economic University**
-Ph.D., Economics 
-2007-2013
+**Belarusian State Economic University**   
+Ph.D., Economics   
+2007-2013   
 Dissertation on Accounting and analysis of intangible assets of industrial property.
 
-**Baranovichi State University**
-Bachelor's degree, Economics  
-2000-2005
+**Baranovichi State University**    
+Bachelor's degree, Economics      
+2000-2005      
 
 **Self-education**:
 * [Codecademy:Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 
