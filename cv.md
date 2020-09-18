@@ -40,3 +40,8 @@ Bachelor's degree, Economics
 [Codecademy:Learn Learn HTML](https://www.codecademy.com/learn/learn-html)
 [This is CS50x](https://cs50.harvard.edu/x/2020/)
 [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
+
+## Languages
+* English - B1 
+* Latvian - A2
+* Polish - A2
