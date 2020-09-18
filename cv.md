@@ -23,3 +23,13 @@ In addition, I’m a free thinker who enjoys the chance to explore new ideas and
 * Postman
 * SQL
 * Git
+
+## Experience and education
+**Belarusian State Economic University**
+Ph.D., Economics 
+2007-2013
+Dissertation on Accounting and analysis of intangible assets of industrial property.
+
+**Baranovichi State University**
+Bachelor's degree, Economics  
+2000-2005
