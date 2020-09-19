@@ -7,6 +7,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 1024px;
+            padding-top: 30px;
+            margin: 0 auto;
+            text-align: left;
+        }
+
+        @media (max-width: 1024px) {
+            header {
+                text-align: center;
+            }
+        }
+
+        .photo,
+        .title {
+            display: inline-block;
+            vertical-align: middle;
+        }
     </style>
 </head>
 
@@ -14,7 +37,7 @@
     <div class="container">
         <header>
             <div>
-                <img class="photo" src="./img/129.jpg" alt="photo of me">
+                <img class="photo" src="./img/129.jpg" alt="photo">
             </div>
             <div class="title">
                 <h1>Kristina Krivickaja</h1>
